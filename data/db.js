@@ -6,7 +6,6 @@ const perfis = [
     { id: 1, nome: 'comum' },
     { id: 2, nome: 'administrador' }
 ]
-
 const usuarios = [{
     id: proximoId(),
     nome: 'João Silva',
